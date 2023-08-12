@@ -1,0 +1,162 @@
+---
+layout: default
+title: Home
+---
+<!-- ========== BIO ========== -->
+<div class="docs-section" id="bio">
+  <h4>Bio</h4>
+  
+  <a href="" target="_blank"></a>
+  
+  <p>
+  I am a professor of <a href="http://infosci.cornell.edu/" target="_blank">Information Science</a> at <a href="http://tech.cornell.edu" target="_blank">Cornell Tech</a> where I lead the <a href="http://stech.nyc" target="_blank">Social Technologies research group</a> and serve as the associate dean for technical programs. Previously, I was an assistant professor at <a href="http://comminfo.rutgers.edu/" target="_blank">Rutgers SC&I</a>, led a research team at Yahoo! Research Berkeley, and got a <a href="http://infolab.stanford.edu/" target="_blank">PhD from Stanford</a>. Before all that, I played professional basketball in Israel. I sometimes consult or even co-found startups.
+  </p>
+
+  <p>
+  My research focus is on topics related to Technology, Media and Democracy, and in particular the trustworthiness of our information ecosystem. We use a wide range of tools -- from machine learning, to computational social science, to online experiments, to qualitative methods -- to understand and try to address these challenges, with an increasing focus on the impact of AI-mediated communication. Our sponsors over the years included, among others, Yahoo, Google, Facebook and the National Science Foundation.
+    
+  </p> 
+</div>
+
+<div class="docs-section" id="prospective-students">  
+  <h4>Prospective Students</h4>
+  <p>
+   I do not take new students every year. I will only be considering new students who are committed to working on issues related to Technology, Media and Democracy. Feel free to email me with information about your relevant experience and goals, although I do not guarantee a response. To work with me, you can apply to the Information Science or Computer Science PhD programs at Cornell, and mention me in your application. If you want to learn more about what you can expect from working with me, please take a look at <a href="https://s.tech.cornell.edu/phd-syllabus/" target="_blank">my PhD syllabus/guide</a>.  
+  </p> 
+</div>
+
+
+<!-- ========== PUBLICATIONS ========== -->
+<div class="docs-section" id="publications">
+  <h4>Publications</h4>
+
+  <p>For a (likely) more up-to-date list of publications, see <a href="{{ site.data.main_info.google_scholar }}" target="_blank">Google Scholar</a>.
+  </p>
+
+  <ul class="tab-nav">
+    <li><div class="button active" data-ref="#papers-selected">Selected</div></li>
+    <li><div class="button" data-ref="#papers-all">All</div></li>
+  </ul>
+
+  <div class="tab-content">
+    <div class="tab-pane active" id="papers-selected">
+      {% assign selected_papers = site.data.publications.papers | where: "selected", "y" %}
+      {% for paper in selected_papers %}
+        <div class="paper">
+          <p class="title"><b>{{ paper.title }}</b></p>
+          <p>{{ paper.authors }}</p>
+          <p><i>{{ paper.venue }}</i>{% if paper.year %}. {{ paper.year }}.{% endif %}</p>
+          {% if paper.award %}
+          <p><i class="fa fa-trophy" style="color:#1EAEDB"></i> {{ paper.award }}</p>
+          {% endif %}
+          <div class="paper-buttons">
+            {% if paper.paper_pdf %}
+              <a class="button" href="{{ paper.paper_pdf }}" target="_blank">Paper</a>
+            {% endif %}
+
+            {% if paper.preprint %}
+              <a class="button" href="{{ paper.preprint }}" target="_blank">Preprint</a>
+            {% endif %}
+
+            {% if paper.code %}
+              <a class="button" href="{{ paper.code }}" target="_blank">Code</a>
+            {% endif %}
+
+            {% if paper.data %}
+              <a class="button" href="{{ paper.data }}" target="_blank">Data</a>
+            {% endif %}
+
+            {% if paper.prereg %}
+              <a class="button" href="{{ paper.prereg }}" target="_blank">Registration</a>
+            {% endif %}
+            
+            {% if paper.slides %}
+              <a class="button" href="{{ paper.slides }}" target="_blank">Slides</a>
+            {% endif %}
+
+            {% if paper.poster %}
+              <a class="button" href="{{ paper.poster }}" target="_blank">Poster</a>
+            {% endif %}
+
+            {% if paper.video %}
+              <a class="button" href="{{ paper.video }}" target="_blank">Video</a>
+            {% endif %}
+
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+
+    <div class="tab-pane" id="papers-all">
+      {% for paper in site.data.publications.papers %}
+        <div class="paper">
+          <p class="title"><b>{{ paper.title }}</b></p>
+          <p>{{ paper.authors }}</p>
+          <p><i>{{ paper.venue }}</i>{% if paper.year %}. {{ paper.year }}.{% endif %}</p>
+          {% if paper.award %}
+          <p><i class="fa fa-trophy" style="color:#1EAEDB"></i> {{ paper.award }}</p>
+          {% endif %}
+           <div class="paper-buttons">
+            {% if paper.paper_pdf %}
+              <a class="button" href="{{ paper.paper_pdf }}" target="_blank">Paper</a>
+            {% endif %}
+            
+             {% if paper.preprint %}
+              <a class="button" href="{{ paper.preprint }}" target="_blank">Preprint</a>
+            {% endif %}
+
+            {% if paper.code %}
+              <a class="button" href="{{ paper.code }}" target="_blank">Code</a>
+            {% endif %}
+
+            {% if paper.data %}
+              <a class="button" href="{{ paper.data }}" target="_blank">Data</a>
+            {% endif %}
+
+            {% if paper.prereg %}
+              <a class="button" href="{{ paper.prereg }}" target="_blank">Registration</a>
+            {% endif %}
+
+             {% if paper.slides %}
+              <a class="button" href="{{ paper.slides }}" target="_blank">Slides</a>
+            {% endif %}
+
+            {% if paper.poster %}
+              <a class="button" href="{{ paper.poster }}" target="_blank">Poster</a>
+            {% endif %}
+
+            {% if paper.video %}
+              <a class="button" href="{{ paper.video }}" target="_blank">Video</a>
+            {% endif %}
+
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+
+<!-- ========== NEWS ========== -->
+<div class="docs-section" id="news">
+  <h4>Recent News</h4>
+  {% for news_item in site.data.news.news_items %}
+  <p>
+    <b>{{ news_item.date }}</b>. {{ news_item.item }}{% if news_item.link %} <a href="{{ news_item.link }}" target="_blank">(more info)</a>{% endif %}.
+  </p>
+  {% endfor %}
+
+
+<!-- ========== LAB ========== -->
+<div class="docs-section" id="lab">
+  <h4>Lab</h4>
+
+  <p>For more information about the Social Technologies lab and the people I am lucky to work with, check out our <a href="http://stech.nyc" target="_blank">lab website</a>.</p>
+
+</div>
+
+<!-- ========== THANKS ========== -->  
+<div class="docs-section" id="template">
+    <h4>Website Design</h4>
+    Website designed by <a href="https://web.stanford.edu/~msaveski/" target="_blank">Martin Saveski</a> and forked by permission from <a href="https://github.com/msaveski/www_personal" target="_blank">his Github</a>.
+    <!--<br/>-->
+</div>

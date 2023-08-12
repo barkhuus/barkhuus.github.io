@@ -1,3 +1,8 @@
-theme: jekyll-theme-minimal
-title: Louise Barkhuus' academic homepage
-description: My new exciting webpage
+source:      .
+destination: ./_site
+includes:    ./_includes
+baseurl: /www_personal
+
+collections:
+  projects:
+    output: true
