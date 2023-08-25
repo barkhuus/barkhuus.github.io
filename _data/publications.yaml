@@ -34,10 +34,3 @@ papers:
     paper_pdf: "https://dl.acm.org/doi/pdf/10.1145/3452918.3458808"
     selected: y
 
-  - title: "Interactive Performance as a Means of Civic Dialogue"
-    authors: "Chiara Rossitto, Maria Normark, Louise Barkhuus"
-    venue: "CHI 2017"
-    preprint: "http://barkhu.us/rossito-chi2017.pdf"
-    paper_pdf: "https://dl.acm.org/doi/pdf/10.1145/3025453.3025897"
-    award: "Best Paper Honorable Mention"
-    selected: y
