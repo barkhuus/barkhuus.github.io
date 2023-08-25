@@ -4,15 +4,27 @@ papers:
     authors: "Melanie Duckert, Louise Barkhuus, Pernille Bjørn"
     venue: "CHI 2023"
     paper_pdf: "https://dl.acm.org/doi/pdf/10.1145/3544548.3580899"
-    year: "2023"
     selected: y
 
   - title: "Designing for Shared Remote Video Experiences"
-    authors: "Anders Sundnes Løvlie, Lucas Schønrock, Jannik Bryld and Louise Barkhuus"
+    authors: "Anders Sundnes Løvlie, Lucas Schønrock, Jannik Bryld, Louise Barkhuus"
     venue: "Proceedings of the 25th International Academic Mindtrek Conference"
     paper_pdf: "https://dl.acm.org/doi/pdf/10.1145/3569219.3569354"
     year: "2022"
     selected: y
+
+  - title: "You have been in Close Contact with a Person Infected with COVID-19 and you may have been Infected: Understanding Privacy Concerns, Trust and Adoption in Mobile COVID-19 Tracing Across Four Countries"
+    authors: "Oksana Kulyk, Lauren Britton-Steele, Elda Paja, Melanie Duckert, Louise Barkhuus"
+    venue: "MobileHCI 2022"
+    paper_pdf: "https://dl.acm.org/doi/pdf/10.1145/3546739"
+    selected: y
+    
+  - title: "Protecting Personal Health Data through Privacy Awareness: A study of perceived data privacy among people with chronic or long-term illness"
+    authors: "Melanie Duckert, Louise Barkhuus"
+    venue: "ACM GROUP 2022/2023"
+    paper_pdf: "https://dl.acm.org/doi/pdf/10.1145/3492830"
+    selected: y
+
     
   - title: "Human Heuristics for AI-Generated Language Are Flawed"
     authors: "Maurice Jakesch, Jeffrey Hancock, Mor Naaman"
