@@ -20,6 +20,14 @@ papers:
     paper_pdf: "https://dl.acm.org/doi/pdf/10.1145/3546739"
     selected: y
     
+  - title: "Protecting Personal Health Data through Privacy Awareness: A study of perceived data privacy among people with chronic or long-term illness"
+    authors: "Melanie Duckert, Louise Barkhuus"
+    venue: "ACM GROUP 2022/2023"
+    year: "2022"
+    preprint: "http://www.barkhu.us/duckert-barkhuus2022.pdf"
+    paper_pdf: "https://dl.acm.org/doi/pdf/10.1145/3492830"
+    selected: y
+    
   - title: "People are either too Fake or too Real: Opportunities and Challenges in Tie-based Anonymity"
     authors: "Xiao Ma, Nazanin Andalibi, Louise Barkhuus, Mor Naaman"
     venue: "CHI 2017"
