@@ -6,6 +6,13 @@ papers:
     paper_pdf: "https://dl.acm.org/doi/pdf/10.1145/3544548.3580899"
     year: "2023"
     selected: y
+
+  - title: "Designing for Shared Remote Video Experiences"
+    authors: "Anders Sundnes Løvlie, Lucas Schønrock, Jannik Bryld and Louise Barkhuus"
+    venue: "Proceedings of the 25th International Academic Mindtrek Conference"
+    paper_pdf: "https://dl.acm.org/doi/pdf/10.1145/3569219.3569354"
+    year: "2022"
+    selected: y
     
   - title: "Human Heuristics for AI-Generated Language Are Flawed"
     authors: "Maurice Jakesch, Jeffrey Hancock, Mor Naaman"
