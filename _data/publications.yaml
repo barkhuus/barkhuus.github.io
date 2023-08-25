@@ -1,5 +1,4 @@
 
-
 papers:
 
   - title: "Human Heuristics for AI-Generated Language Are Flawed"
@@ -31,3 +30,9 @@ papers:
     paper_pdf: "https://www.nature.com/articles/s41598-023-30938-9"
     year: "2023"
     selected: y
+
+ - title: "'People Are Either Too Fake or Too Real': Opportunities and Challenges in Tie-Based Anonymity"
+   authors: "Xiao Ma, Nazanin Andalibi, Louise Barkhuus, Mor Naaman"
+   venue: "CHI 2017"
+   sourceLink: "https://chi2017.acm.org/"
+   paper_pdf: "https://s.tech.cornell.edu/assets/papers/secret-qual.pdf"
