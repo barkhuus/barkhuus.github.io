@@ -14,6 +14,12 @@ papers:
     year: "2022"
     selected: y
     
+  - title: "You have been in Close Contact with a Person Infected with COVID-19 and you may have been Infected: Understanding Privacy Concerns, Trust and Adoption in Mobile COVID-19 Tracing Across Four Countries"
+    authors: "Oksana Kulyk, Lauren Britton-Steele, Elda Paja, Melanie Duckert, Louise Barkhuus"
+    venue: "MobileHCI 2022"
+    paper_pdf: "https://dl.acm.org/doi/pdf/10.1145/3546739"
+    selected: y
+    
   - title: "People are either too Fake or too Real: Opportunities and Challenges in Tie-based Anonymity"
     authors: "Xiao Ma, Nazanin Andalibi, Louise Barkhuus, Mor Naaman"
     venue: "CHI 2017"
