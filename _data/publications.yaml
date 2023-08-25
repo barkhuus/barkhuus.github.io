@@ -34,6 +34,12 @@ papers:
     preprint: "http://www.barkhu.us/duckert-barkhuus2021.pdf"
     paper_pdf: "https://dl.acm.org/doi/pdf/10.1145/3452918.3458808"
     selected: y
+
+  - title: "The designer's body as resource in design: Exploring combinations of point-of-view and tense"
+    authors: "Dag Svanæs, Louise Barkhuus"
+    venue: "CHI 2020"
+    paper_pdf: "https://dl.acm.org/doi/pdf/10.1145/3313831.3376430"
+    selected: y
     
   - title: "Interactive Performance as a Means of Civic Dialogue"
     authors: "Chiara Rossitto, Maria Normark, Louise Barkhuus"
