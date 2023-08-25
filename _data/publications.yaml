@@ -22,40 +22,26 @@ papers:
   - title: "Protecting Personal Health Data through Privacy Awareness: A study of perceived data privacy among people with chronic or long-term illness"
     authors: "Melanie Duckert, Louise Barkhuus"
     venue: "ACM GROUP 2022/2023"
+    year: "2022"
     preprint: "http://www.barkhu.us/duckert-barkhuus2022.pdf"
     paper_pdf: "https://dl.acm.org/doi/pdf/10.1145/3492830"
     selected: y
 
-    
-  - title: "Human Heuristics for AI-Generated Language Are Flawed"
-    authors: "Maurice Jakesch, Jeffrey Hancock, Mor Naaman"
-    venue: "Proceedings of the National Academy of Sciences (PNAS)"
-    sourceLink: "https://www.pnas.org"
-    preprint: "https://arxiv.org/abs/2206.07271"
-    data: "https://osf.io/284yv/"
-    prereg: "https://aspredicted.org/bz7x7.pdf"
-    paper_pdf: "https://www.pnas.org/doi/10.1073/pnas.2208839120"
-    year: "2023"
+  - title: "To Use or Not to Use: Mediation and Limitation of Digital Screen Technologies within Nuclear Families"
+    authors: "Melanie Duckert, Louise Barkhuus"
+    venue: "ACM IMX 2022"
+    preprint: "http://www.barkhu.us/duckert-barkhuus2021.pdf"
+    paper_pdf: "https://dl.acm.org/doi/pdf/10.1145/3452918.3458808"
     selected: y
 
-  - title: "Co-Writing with Opinionated Language Models Affects Users' Views"
-    authors: "Maurice Jakesch, Advait Bhat, Daniel Buschek, Lior Zalmanson, Mor Naaman"
-    venue: "CHI 2023"
-    sourceLink: "https://chi2023.acm.org/"
-    preprint: "https://arxiv.org/abs/2302.00560"
-    data: "https://osf.io/upgqw/"
-    paper_pdf: "https://dl.acm.org/doi/abs/10.1145/3544548.3581196"
+  - title: "Interactive Performance as a Means of Civic Dialogue"
+    authors: "Chiara Rossitto, Maria Normark, Louise Barkhuus"
+    venue: "CHI 2017"
+    preprint: "http://barkhu.us/rossito-chi2017.pdf"
+    paper_pdf: "https://dl.acm.org/doi/pdf/10.1145/3025453.3025897"
     award: "Best Paper Honorable Mention"
     selected: y
 
-  - title: "Artificial Intelligence in Communication Impacts Language and Social Relationships"
-    authors: "Jess Hohenstein, Dominic DiFranzo, Rene F Kizilcec, Zhila Aghajari, Hannah Mieczkowski, Karen Levy, Mor Naaman, Jeff Hancock, Malte Jung"
-    venue: "Nature Scientific Reports"
-    sourceLink: "https://www.nature.com/srep/"
-    preprint: "https://arxiv.org/abs/2102.05756"
-    paper_pdf: "https://www.nature.com/articles/s41598-023-30938-9"
-    year: "2023"
-    selected: y
 
 
 
