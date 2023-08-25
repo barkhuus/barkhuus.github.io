@@ -34,7 +34,8 @@ papers:
   - title: "People are either too Fake or too Real: Opportunities and Challenges in Tie-based Anonymity"
     authors: "Xiao Ma, Nazanin Andalibi, Louise Barkhuus, Mor Naaman"
     venue: "CHI 2017"
-    paper_pdf: "http://barkhu.us/ma-chi2017.pdf"
+    paper_pdf: "https://dl.acm.org/doi/pdf/10.1145/3025453.3025956"
+    preprint: "http://barkhu.us/ma-chi2017.pdf"
     selected: y
 
     
