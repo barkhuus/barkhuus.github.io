@@ -28,6 +28,13 @@ papers:
     paper_pdf: "https://dl.acm.org/doi/pdf/10.1145/3492830"
     selected: y
     
+  - title: "To Use or Not to Use: Mediation and Limitation of Digital Screen Technologies within Nuclear Families"
+    authors: "Melanie Duckert, Louise Barkhuus"
+    venue: "ACM IMX 2022"
+    preprint: "http://www.barkhu.us/duckert-barkhuus2021.pdf"
+    paper_pdf: "https://dl.acm.org/doi/pdf/10.1145/3452918.3458808"
+    selected: y
+    
   - title: "People are either too Fake or too Real: Opportunities and Challenges in Tie-based Anonymity"
     authors: "Xiao Ma, Nazanin Andalibi, Louise Barkhuus, Mor Naaman"
     venue: "CHI 2017"
