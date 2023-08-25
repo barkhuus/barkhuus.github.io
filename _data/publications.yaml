@@ -1,9 +1,8 @@
 papers:
 
   - title: "Collocated Distance: A Fundamental Challenge for the Design of Hybrid Work Technologies"
-    authors: "Melanie Duckert,Louise Barkhuus,Pernille Bjørn"
+    authors: "Melanie Duckert, Louise Barkhuus, Pernille Bjørn"
     venue: "CHI 2023"
-    sourceLink: "https://dl.acm.org/doi/abs/10.1145/3544548.3580899"
     paper_pdf: "https://dl.acm.org/doi/pdf/10.1145/3544548.3580899"
     year: "2023"
     selected: y
