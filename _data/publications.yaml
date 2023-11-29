@@ -39,6 +39,13 @@ papers:
     venue: "CHI 2020"
     paper_pdf: "https://dl.acm.org/doi/pdf/10.1145/3313831.3376430"
     selected: y
+
+    - title: "Mothers as Candy Wrappers: Critical Infrastructure Supporting the Transition into Motherhood"
+    authors: "Lauren Britton, Louise Barkhuus, Bryan Semaan"
+    venue: "ACM GROUP 2019"
+    paper_pdf: "https://dl.acm.org/doi/abs/10.1145/3361113"
+    preprint: "http://barkhu.us/britton2019.pdf"
+    selected: y
     
   - title: "Interactive Performance as a Means of Civic Dialogue"
     authors: "Chiara Rossitto, Maria Normark, Louise Barkhuus"
