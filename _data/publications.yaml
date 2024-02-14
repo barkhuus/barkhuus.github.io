@@ -1,5 +1,10 @@
 papers:
 
+  - title: "Achieving Symmetry in Synchronous Interaction in Hybrid Work is Impossible"
+    authors: "Pernille Bjørn, Juliane Busboom, Melanie Duckert, Susanne Bødker, Irina Shklovski, Eve Hoggan, Kellie Dunn, Qianqian Mu, Louise Barkhuus, Nina Boulus-Rødje"
+    venue: "ACM TOCHI 2024"
+    selected: y
+    
   - title: "Collocated Distance: A Fundamental Challenge for the Design of Hybrid Work Technologies"
     authors: "Melanie Duckert, Louise Barkhuus, Pernille Bjørn"
     venue: "CHI 2023"
