@@ -1,5 +1,9 @@
 news_items:
 
+  - item: "I am part of the editorial team for CSCW 2025" 
+    date: "July 2024"
+    link: "https://cscw.acm.org/2025/"
+    
   - item: "I am co-organizing a workshop on LLMs as Research Tools at CHI 2024 in Hawaii (Full day, on Sunday May 12th)"
     date: "February 2024"
     link: "https://sites.google.com/view/llmsindatawork"
