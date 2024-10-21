@@ -74,7 +74,7 @@ papers:
   - title: "Interactive Performance as a Means of Civic Dialogue"
     authors: "Chiara Rossitto, Maria Normark, Louise Barkhuus"
     venue: "CHI 2017"
-    preprint: "http://barkhu.us/rossito-chi2017.pdf"
+    preprint: "https://barkhu.us/rossito-chi2017.pdf"
     paper_pdf: "https://dl.acm.org/doi/pdf/10.1145/3025453.3025897"
     award: "Best Paper Honorable Mention"
     selected: y
@@ -89,5 +89,6 @@ papers:
   - title:"Going online to meet offline: Organizational practices of social activities through meetup"
     authors: "Stephen Ricken, Louise Barkhuus, and Quentin Jones"
     venue: "International Conference on Communities and Technologies, 2017"
+    paper_pdf: "https://dl.acm.org/doi/abs/10.1145/3083671.3083705"
     
 
