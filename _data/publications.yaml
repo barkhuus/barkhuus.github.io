@@ -3,7 +3,19 @@ papers:
   - title: "Achieving Symmetry in Synchronous Interaction in Hybrid Work is Impossible"
     authors: "Pernille Bjørn, Juliane Busboom, Melanie Duckert, Susanne Bødker, Irina Shklovski, Eve Hoggan, Kellie Dunn, Qianqian Mu, Louise Barkhuus, Nina Boulus-Rødje"
     venue: "ACM TOCHI 2024"
+    paper_pdf: "https://dl.acm.org/doi/pdf/10.1145/3648617"
     selected: y
+
+  - title: "Learning design for short-duration e-textile workshops: outcomes on knowledge and skills"
+    authors: "Andri Ioannou, Ourania Miliou, Yiannis Georgiou, Stella Timotheou, Louise Barkhuus, Jennifer Rode"
+    venue: "Educational technology research and development, Springer, 2024"
+    paper_pdf: "https://link.springer.com/article/10.1007/s11423-024-10411-8"
+    selected: y
+  
+  - title: "Queering the Space: Location-Based Stories for Transforming Space into Place"
+    authors: "Mack Neupart, Daniel Ashbrook, and Louise Barkhuus"
+    venue: "CHI 2024 Extended Abstracts"
+    paper_pdf: "https://dl.acm.org/doi/pdf/10.1145/3613905.3650885"
     
   - title: "Collocated Distance: A Fundamental Challenge for the Design of Hybrid Work Technologies"
     authors: "Melanie Duckert, Louise Barkhuus, Pernille Bjørn"
@@ -51,6 +63,13 @@ papers:
     paper_pdf: "https://dl.acm.org/doi/abs/10.1145/3361113"
     preprint: "http://barkhu.us/britton2019.pdf"
     selected: y
+  
+  - title: "Making the City my own: Uses and Practices of Mobile Location Technologies for Exploration of a new City"
+    authors: "Louise Barkhuus and Yvette Wohn"
+    venue: "Personal and Ubiquitous Computing, 2018"
+    paper_pdf: "https://link.springer.com/article/10.1007/s00779-018-01191-z"
+    preprint: "http://barkhu.us/barkhuus-wohn-2018.pdf"
+    selected: y
     
   - title: "Interactive Performance as a Means of Civic Dialogue"
     authors: "Chiara Rossitto, Maria Normark, Louise Barkhuus"
@@ -67,5 +86,8 @@ papers:
     preprint: "http://barkhu.us/ma-chi2017.pdf"
     selected: y
 
+  - title:"Going online to meet offline: Organizational practices of social activities through meetup"
+    authors: "Stephen Ricken, Louise Barkhuus, and Quentin Jones"
+    venue: "International Conference on Communities and Technologies, 2017"
     
 
