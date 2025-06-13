@@ -1,18 +1,23 @@
 news_items:
 
+  - item: "From June 2025 I am a visiting professor at Drexel University, Department of Information Science" 
+    date: "June 2025"
+    link: "https://drexel.edu/cci/academics/information-science-department/"
+ 
+  - item: "I sub-committee chair for CHI 2026, Understanding Users, Qualitative Research" 
+    date: "June 2025"
+    link: "https://https://chi2026.acm.org/"
+    
   - item: "I am part of the editorial team for CSCW 2025" 
     date: "July 2024"
     link: "https://cscw.acm.org/2025/"
     
-  - item: "I am co-organizing a workshop on LLMs as Research Tools at CHI 2024 in Hawaii (Full day, on Sunday May 12th)"
-    date: "February 2024"
-    link: "https://sites.google.com/view/llmsindatawork"
 
-  - item: "From September 2023 I am a visiting professor at Rutgers University, in the Department of Library and Information Science"
+  - item: "From September 2023 to June 2025 I was a visiting professor at Rutgers University, in the Department of Library and Information Science"
     date: "August 2023"
     link: "https://comminfo.rutgers.edu/news/scholar-human-computer-interaction-join-sci-visiting-professor"
 
-  - item: "From September 2022 I am a Fulbright Scholar at Columbia University in the Department of Biomedical Informatics, working with Lena Mamykina"
+  - item: "From September 2022 I was a Fulbright Scholar at Columbia University in the Department of Biomedical Informatics, working with Lena Mamykina"
     date: "September 2022"
     link: "https://www.dbmi.columbia.edu"
 
