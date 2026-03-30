@@ -1,5 +1,8 @@
 news_items:
 
+  - item: "My journal paper on location sharing among young adults has finally been accepted and will be published in Journal of CSCW (ECSCW edition). Preprint out soon!"
+  - date: "March 2026"
+  
   - item: "In November 2025, I started at a researcher at NYU, in the Department of Computer Science and Engineering" 
     date: "November 2025"
     link: "https://engineering.nyu.edu/academics/departments/computer-science-and-engineering"
@@ -7,11 +10,6 @@ news_items:
   - item: "I am sub-committee chair for CHI 2026, Understanding Users, Qualitative Research" 
     date: "June 2025"
     link: "https://chi2026.acm.org/"
-    
-  - item: "I am part of the editorial team for CSCW 2025" 
-    date: "July 2024"
-    link: "https://cscw.acm.org/2025/"
-    
 
   - item: "From September 2023 to June 2025 I was a visiting professor at Rutgers University, in the Department of Library and Information Science"
     date: "August 2023"
