@@ -1,5 +1,10 @@
 papers:
 
+  - title: "Like Guardian Angels: Continuous Location-Sharing and the Production of Safety Among US College Students"
+    authors: "Louise Barkhuus, John S. Seberger, Jorge P. Campos, Anouk Mols"
+    venue: "`ECSCW 2026"
+    selected: y
+  
   - title: "Achieving Symmetry in Synchronous Interaction in Hybrid Work is Impossible"
     authors: "Pernille Bjørn, Juliane Busboom, Melanie Duckert, Susanne Bødker, Irina Shklovski, Eve Hoggan, Kellie Dunn, Qianqian Mu, Louise Barkhuus, Nina Boulus-Rødje"
     venue: "ACM TOCHI 2024"
