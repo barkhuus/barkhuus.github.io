@@ -1,6 +1,9 @@
 news_items:
 
-  - item: "My journal paper on location sharing among young adults has finally been accepted and will be published in Journal of CSCW (ECSCW edition)"
+  - item: "I have a paper at MobileHCI, looking at how location-sharing with parents in middle- and high school affects trust and sharing practices among young adults"
+    date: "June 2026"
+  
+  - item: "My journal paper on location-sharing among young adults has finally been accepted and will be published in Journal of CSCW (ECSCW edition)"
     date: "March 2026"
     link: "https://ecscw.eusset.eu/2026/"
   
