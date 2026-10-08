@@ -1,5 +1,9 @@
 news_items:
 
+  - item: "Together with my Post-doc Eszter Vigh at the IT University of Copenhagen, we have a poster at CSCW looking at how European software developers were reacting to the Greenland crisis in 2026 through their use of US AI tools"
+    date: "October 2026"
+    link: "http://barkhu.us/cscw2026poster.pdf"
+  
   - item: "I have a paper at MobileHCI, looking at how location-sharing with parents in middle- and high school affects trust and sharing practices among young adults"
     date: "June 2026"
     link: "http://mobilehci.acm.org"
@@ -11,20 +15,8 @@ news_items:
   - item: "In November 2025, I started as a researcher at NYU, in the Department of Computer Science and Engineering" 
     date: "November 2025"
     link: "https://engineering.nyu.edu/academics/departments/computer-science-and-engineering"
- 
-  - item: "I am sub-committee chair for CHI 2026, Understanding Users, Qualitative Research" 
-    date: "June 2025"
-    link: "https://chi2026.acm.org/"
 
   - item: "From September 2023 to June 2025 I was a visiting professor at Rutgers University, in the Department of Library and Information Science"
     date: "August 2023"
     link: "https://comminfo.rutgers.edu/news/scholar-human-computer-interaction-join-sci-visiting-professor"
-
-  - item: "From September 2022 I was a Fulbright Scholar at Columbia University in the Department of Biomedical Informatics, working with Lena Mamykina"
-    date: "September 2022"
-    link: "https://www.dbmi.columbia.edu"
-
-  - item: "I became a full Professor at the IT University of Copenhagen"
-    link: "www.itu.dk"
-    date: "July 1st 2021"
 
