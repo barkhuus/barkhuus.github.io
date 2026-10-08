@@ -1,8 +1,20 @@
 papers:
 
+  - title: "The Struggle to “Do Life Right” in an Always-Online World: Teens, Mobile Phones, and the Limits of Individual Responsibility"
+    authors: "Louise Barkhuus, Nora McDonald, Eszter Vigh, Damon McCoy"
+    venue: "OzCHI 2026"
+    paper_pdf: "http://barkhu.us/teens_and_phones_ozchi2026.pdf"
+  
+  - title: "How Safety is Learned: Trajectories of Location Sharing Practices from Childhood into Young Adulthood"
+    authors: "Mamtaj Akter, Louise Barkhuus, Jorge P. Campos, Anouk Mols, Pamela J. Wisniewski"
+    venue: "MobileHCI 2026"
+    paper_pdf: "http://barkhu.us/PACMHCIv10i5-4168.pdf"
+    selected: y
+  
   - title: "Like Guardian Angels: Continuous Location-Sharing and the Production of Safety Among US College Students"
     authors: "Louise Barkhuus, John S. Seberger, Jorge P. Campos, Anouk Mols"
     venue: "ECSCW 2026"
+    paper_pdf: "http://barkhu.us/guardian-angles-cscw2026.pdf"
     selected: y
   
   - title: "Achieving Symmetry in Synchronous Interaction in Hybrid Work is Impossible"
@@ -33,7 +45,7 @@ papers:
     venue: "Proceedings of the 25th International Academic Mindtrek Conference"
     paper_pdf: "https://dl.acm.org/doi/pdf/10.1145/3569219.3569354"
     year: "2022"
-    selected: y
+    selected: n
     
   - title: "You have been in Close Contact with a Person Infected with COVID-19 and you may have been Infected: Understanding Privacy Concerns, Trust and Adoption in Mobile COVID-19 Tracing Across Four Countries"
     authors: "Oksana Kulyk, Lauren Britton-Steele, Elda Paja, Melanie Duckert, Louise Barkhuus"
@@ -54,7 +66,7 @@ papers:
     venue: "ACM IMX 2022"
     preprint: "https://www.barkhu.us/duckert-barkhuus2021.pdf"
     paper_pdf: "https://dl.acm.org/doi/pdf/10.1145/3452918.3458808"
-    selected: y
+    selected: n
 
   - title: "The designer's body as resource in design: Exploring combinations of point-of-view and tense"
     authors: "Dag Svanæs, Louise Barkhuus"
@@ -67,14 +79,14 @@ papers:
     venue: "ACM GROUP 2019"
     paper_pdf: "https://dl.acm.org/doi/abs/10.1145/3361113"
     preprint: "http://barkhu.us/britton2019.pdf"
-    selected: y
+    selected: n
   
   - title: "Making the City my own: Uses and Practices of Mobile Location Technologies for Exploration of a new City"
     authors: "Louise Barkhuus and Yvette Wohn"
     venue: "Personal and Ubiquitous Computing, 2018"
     paper_pdf: "https://link.springer.com/article/10.1007/s00779-018-01191-z"
     preprint: "http://barkhu.us/barkhuus-wohn-2018.pdf"
-    selected: y
+    selected: n
     
   - title: "Interactive Performance as a Means of Civic Dialogue"
     authors: "Chiara Rossitto, Maria Normark, Louise Barkhuus"
@@ -82,14 +94,14 @@ papers:
     preprint: "https://barkhu.us/rossito-chi2017.pdf"
     paper_pdf: "https://dl.acm.org/doi/pdf/10.1145/3025453.3025897"
     award: "Best Paper Honorable Mention"
-    selected: y
+    selected: n
     
   - title: "People are either too Fake or too Real: Opportunities and Challenges in Tie-based Anonymity"
     authors: "Xiao Ma, Nazanin Andalibi, Louise Barkhuus, Mor Naaman"
     venue: "CHI 2017"
     paper_pdf: "https://dl.acm.org/doi/pdf/10.1145/3025453.3025956"
     preprint: "https://barkhu.us/ma-chi2017.pdf"
-    selected: y
+    selected: n
 
   - title:"Going online to meet offline: Organizational practices of social activities through meetup"
     authors: "Stephen Ricken, Louise Barkhuus, and Quentin Jones"
